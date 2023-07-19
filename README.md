@@ -4,13 +4,11 @@
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-- 🎓 I'm multitalent Software Design & Developer engineer
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning efficient usage of [GitHub](https://github.com/).
-- 👯 I’m looking to collaborate on OpenSource
-- 🤔 I’m looking for help with [Python](https://www.python.org/) and [Robot Framework](https://robotframework.org/)
+- 🎓 I'm
+- 🔭 I’m
+- 🌱 I’m 
+- 👯 I’m 
 - 💬 Ask me about anything
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/jukkarauhala/) or [GitHub](https://github.com/)
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I like to automate as much as possible
 
@@ -21,17 +19,13 @@
 - HTML, CSS, JavaScript
 - PHP & mySQL
 - Windows, Linux
-- Public Speaking
-- Arhcitectural Design
-- Project Management
-- People and Team Management
-
+  
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jukkarauhala/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rauhala.jukka@gmail.com">
+<a href="https://www.linkedin.com/">
+<img alt="LinkedIn" src=""></a>
+<a href="mailto:">
 <img alt="Email" src="https://img.shields.io/badge/Email-rauhala.jukka%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
