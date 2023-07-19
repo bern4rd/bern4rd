@@ -140,12 +140,12 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jura84" alt="jura84"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bern4rd" alt="bern4rd"/>
 </p>
 
 <br/>
 
-[![jura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jura84&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bern4rd&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
