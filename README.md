@@ -2,7 +2,7 @@
 
 ![Felipe Bernard](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Felipe+Bernard)
 
-<h2> 👨🏻‍💻 About Me </h2>
+<h2> 👨🏻‍💻 About Me</h2>
 
 - 🎓 I'm a student of Computer Science at Rural Federal University of Pernambuco (UFRPE)
 - 🔭 I'm a QA Analyst, specializing in quality assurance and testing of software applications and systems.
