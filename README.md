@@ -23,10 +23,10 @@
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/felipe-bernard/">
 <img alt="LinkedIn" src=""></a>
-<a href="mailto:">
-<img alt="Email" src="https://img.shields.io/badge/Email-felipe.bernard.pe%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+<a href="mailto:felipebernard.pe">
+<img alt="Email" src="https://img.shields.io/badge/Email-felipebernard.pe%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
 <h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
