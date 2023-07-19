@@ -12,7 +12,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I like to automate as much as possible
 
-<h2">👨🏻‍💻 Skills</h2>
+<h2>👨🏻‍💻 Skills</h2>
 
 - QA, Mobile Automation, Web Automation, API Automation
 - Robot Framework, Cypress
