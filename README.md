@@ -35,51 +35,61 @@
 
 <table align="center">
   <tr>
-     <td align="center" width="96">
+     
+  <td align="center" width="96">
       <a href="#Robot">
         <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Robot" />
       </a>
       <br>Robot Framework
-    </td>
+    
+  </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    
+  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
+    
+  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>RestApi
     </td>
+  
   <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
   </td>
+  
   <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
   </td>
+  
   <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
-    </td>
-     </tr>
-  <tr>
-    <td align="center" width="96">
+  </td>
+  </tr>
+  
+  <tr>  
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+    
+  <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
@@ -89,26 +99,39 @@
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+  
+  <td align="center" width="96">
+      <a href="#MacOS" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/1030px-MacOS_logo_%282017%29.svg.png" width="48" height="48"     alt="MacOS" />
+      </a>
+      <br>MacOS
+  
+  <td align="center" width="96">
       <a href="#Windows" >
         <img src="https://www.svgrepo.com/show/355384/windows-legacy.svg" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
-     <td align="center" width="96">
+     
+  <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
-  <td align="center" width="96">
+  
+  </tr>
+  
+  <tr> 
+  
+<td align="center" width="96">
       <a href="#Kubuntu" >
         <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
       </a>
       <br>Kubuntu
     </td>
      </td>
-        </tr>
-    <td align="center"  width="96">
+
+  <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
       </a>
