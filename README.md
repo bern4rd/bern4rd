@@ -37,7 +37,7 @@
   <tr>
      <td align="center" width="96">
       <a href="#Robot">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="48" height="48" alt="Robot" />
+        <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Robot" />
       </a>
       <br>Robot Framework
     </td>
