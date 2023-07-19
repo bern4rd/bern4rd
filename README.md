@@ -4,21 +4,23 @@
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-- 🎓 I'm
-- 🔭 I’m
-- 🌱 I’m 
-- 👯 I’m 
+- 🎓 I'm a student of Computer Science, currently pursuing my education in this field.
+- 🔭 I'm a QA Analyst, specializing in quality assurance and testing of software applications and systems.
+- 🌱 I'm continuously learning and exploring new technologies and methodologies related to software development and testing to enhance my skills and knowledge in my field.
+- 👯 I'm open to collaborating and working with fellow students, professionals, or anyone interested in the world of computer science, quality assurance, and software testing. Let's connect and share ideas!
 - 💬 Ask me about anything
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I like to automate as much as possible
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
-- Embedded, Front-End, Back-End, Scripting
-- C, C++, C#, Java, Python
-- HTML, CSS, JavaScript
-- PHP & mySQL
-- Windows, Linux
+- QA, Mobile Automation, Web Automation, API Automation
+- Robot Framework, Cypress
+- C, C++, Java, Python, React
+- Github Actions
+- MySQL, SQLite, MongoDB
+- MacOS, Linux, Windows
+- CentOS, wServer
   
 <h2 align="center"> 🤝🏻 Contact </h2>
 
@@ -34,10 +36,10 @@
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <a href="#PHP">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <a href="#Robot">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="48" height="48" alt="Robot" />
       </a>
-      <br>PHP
+      <br>Robot Framework
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
