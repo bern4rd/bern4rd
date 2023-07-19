@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/">
 <img alt="LinkedIn" src=""></a>
 <a href="mailto:">
-<img alt="Email" src="https://img.shields.io/badge/Email-rauhala.jukka%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+<img alt="Email" src="https://img.shields.io/badge/Email-felipe.bernard.pe%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
 <h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
