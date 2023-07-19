@@ -1,10 +1,10 @@
-<h1 align="center"> Welcome 👋</h1>
+<h1> Welcome 👋</h1>
 
 ![Felipe Bernard](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Felipe+Bernard)
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
+<h2> 👨🏻‍💻 About Me </h2>
 
-- 🎓 I'm a student of Computer Science, currently pursuing my education in this field.
+- 🎓 I'm a student of Computer Science at Rural Federal University of Pernambuco (UFRPE)
 - 🔭 I'm a QA Analyst, specializing in quality assurance and testing of software applications and systems.
 - 🌱 I'm continuously learning and exploring new technologies and methodologies related to software development and testing to enhance my skills and knowledge in my field.
 - 👯 I'm open to collaborating and working with fellow students, professionals, or anyone interested in the world of computer science, quality assurance, and software testing. Let's connect and share ideas!
@@ -12,7 +12,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I like to automate as much as possible
 
-<h2 align="center">👨🏻‍💻 Skills</h2>
+<h2">👨🏻‍💻 Skills</h2>
 
 - QA, Mobile Automation, Web Automation, API Automation
 - Robot Framework, Cypress
@@ -22,7 +22,7 @@
 - MacOS, Linux, Windows
 - CentOS, wServer
   
-<h2 align="center"> 🤝🏻 Contact </h2>
+<h2> 🤝🏻 Contact </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-bernard/">
