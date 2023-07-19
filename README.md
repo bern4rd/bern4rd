@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-bernard/">
-<img alt="LinkedIn" src=""></a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Felipe%20Bernard-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:felipebernard.pe">
 <img alt="Email" src="https://img.shields.io/badge/Email-felipebernard.pe%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
