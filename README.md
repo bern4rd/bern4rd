@@ -16,6 +16,7 @@
 
 - QA, Mobile Automation, Web Automation, API Automation
 - Robot Framework, Cypress
+- Appium, Selenium, Faker
 - C, C++, Java, Python, React
 - Github Actions
 - MySQL, SQLite, MongoDB
