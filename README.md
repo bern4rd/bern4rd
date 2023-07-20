@@ -42,6 +42,11 @@
         <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Robot" />
       </a>
       <br>Robot Framework
+
+  <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" alt="icon" width="65" height="65" />
+      <br>Cypress
+  </td>
     
   </td>
     <td align="center" width="96">
@@ -54,11 +59,6 @@
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
-    </td>
-    
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>RestApi
     </td>
   
   <td align="center" width="96">
