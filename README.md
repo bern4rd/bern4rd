@@ -1,6 +1,6 @@
 <h1> Welcome 👋</h1>
 
-![Felipe Bernard](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Felipe+Bernard)
+![Felipe Bernard](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=Greetings%2C+my+name+is+Felipe+Bernard)
 
 <h2> 👨🏻‍💻 About Me</h2>
 
