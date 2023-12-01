@@ -10,7 +10,6 @@
 - 🫱🏽‍🫲🏼 I'm open to collaborating with fellow students, professionals, or anyone interested in the world of computer science, quality assurance, and software testing. Let's connect and share ideas!
 - 💬 Ask me about anything
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I like to automate as much as possible
 
 <h2>👨🏻‍💻 Skills</h2>
 
