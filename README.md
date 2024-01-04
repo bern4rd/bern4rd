@@ -14,7 +14,8 @@
 <h2>👨🏻‍💻 Skills</h2>
 
 - QA, Mobile Automation, Web Automation, API Automation
-- Robot Framework, Cypress
+- Robot Framework, Pabot,
+- Cypress, Playwright 
 - Appium, Selenium, Faker
 - C, C++, Java, Python, React
 - Github Actions
